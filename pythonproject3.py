@@ -1,13 +1,11 @@
 #By Brandon2023
+#Guess the number game
 
 import random
 
 tries = int("4")
 score = int("0")
 cpu_score = int("0")
-
-#rando reqiurements
-pp = [69, 10]
 
 selection = input("\nplease select: Easy / Medium / Pain: ")
 print("\nWell if you choose pain you baccially have a 1 in 999999998 chance of winning against the CPU")
